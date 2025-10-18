@@ -25,7 +25,7 @@ It also supports **remote session tracking**, **activity logs**, and **notificat
 - 🔔 **Smart Notifications** – Vibrates and logs events when:  
   - Temperature exceeds **75°C**  
   - Firebase value `/fish_drying_system/high_temp` = `true`  
-  - A drying session is about to end  
+  - The drying session ends  
 
 ---
 
