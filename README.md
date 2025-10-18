@@ -79,7 +79,7 @@ Firmware repository:
 ➡️ automated-fish-drying-system-firmware
 ```
 
-###👨‍💻 Developer
+### 👨‍💻 Developer
 ```
 Ralph Buenaventura
 🎓 Bachelor of Science in Computer Engineering
