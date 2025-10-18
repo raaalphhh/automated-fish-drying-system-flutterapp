@@ -56,8 +56,10 @@ lib/
  │     ├── text_size_provider.dart
  │     └── theme_provider.dart
  └── theme.dart
+```
 
-📡 Firebase Data Reference
+## 📡 Firebase Data Reference
+```
 /fish_drying_system/
     ├── high_temp
     ├── session_active
@@ -67,15 +69,20 @@ lib/
           │     ├── weight
           │     ├── duration
           │     ├── moisture_loss
+  ```        
 
-🔗 Integration with Firmware
+## 🔗 Integration with Firmware
+```
 
 This app works hand-in-hand with the ESP32 firmware to achieve full IoT functionality.
 Firmware repository:
 ➡️ automated-fish-drying-system-firmware
+```
 
-👨‍💻 Developer
+###👨‍💻 Developer
+```
 Ralph Buenaventura
 🎓 Bachelor of Science in Computer Engineering
 📍 Philippines
 🔗 GitHub Profile: @raaalphhhb
+```
