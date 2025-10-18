@@ -1,0 +1,93 @@
+# ===========================
+# ✅ FLUTTER + FIREBASE PROJECT IGNORE FILE
+# ===========================
+
+# ---------------------------
+# 🔹 Miscellaneous
+# ---------------------------
+*.class
+*.log
+*.pyc
+*.swp
+*.tmp
+*.bak
+*.old
+*.pid
+*.lock
+*.iml
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+project_app.iml
+hs_err_pid*.log
+repay_pid*.log
+
+# ---------------------------
+# 🔹 IDE / Editor Settings
+# ---------------------------
+.idea/
+.vscode/
+*.ipr
+*.iws
+
+# ---------------------------
+# 🔹 Flutter / Dart / Pub
+# ---------------------------
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+**/ios/Flutter/.last_build_id
+.metadata
+
+# ---------------------------
+# 🔹 Android Studio / Gradle
+# ---------------------------
+.gradle/
+local.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ---------------------------
+# 🔹 Symbolication / Obfuscation
+# ---------------------------
+app.*.symbols
+app.*.map.json
+
+# ---------------------------
+# 🔹 OS / Temporary Files
+# ---------------------------
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.dmp
+*.DS_Store
+
+# ---------------------------
+# 🔹 Node / Web (optional)
+# ---------------------------
+node_modules/
+dist/
+
+# ---------------------------
+# 🔹 Custom Project Folders to Ignore
+# ---------------------------
+mobileapp_sourcecode/
+
+
+# Firebase auto-generated config
+android/app/google-services.json
+lib/firebase_options.dart
+ios/Runner/GoogleService-Info.plist
