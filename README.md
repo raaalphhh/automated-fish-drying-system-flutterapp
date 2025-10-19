@@ -83,6 +83,6 @@ Firmware repository:
 ```
 Ralph Buenaventura
 🎓 Bachelor of Science in Computer Engineering
-📍 Philippines
-🔗 GitHub Profile: @raaalphhhb
+📍  Philippines
+🔗 GitHub Profile: @raaalphhh
 ```
